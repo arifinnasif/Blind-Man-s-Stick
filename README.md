@@ -19,7 +19,7 @@ Under the kind supervision of -
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Circuit Diagram
-![Circuit Diagram](https://github.com/arifinnasif/Blind-Man-s-Stick/tree/master/.images/circuit_diagram.jpg?raw=true)
+![Circuit Diagram](https://github.com/arifinnasif/Blind-Man-s-Stick/blob/master/.images/circuit_diagram.jpg?raw=true)
 
 ### How to get started
 #### Arduino
