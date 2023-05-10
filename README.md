@@ -8,6 +8,10 @@ Under the kind supervision of -
 * Sukarna Barua - Assistant Professor, CSE
 * Md. Masum Mushfiq - Lecturer, CSE
 
+**Click the image below to see our project video**
+
+[![Watch the video](https://img.youtube.com/vi/7ePOXvDZJDY/maxresdefault.jpg)](https://youtu.be/7ePOXvDZJDY)
+
 ### Hardware Tools Used
 * Arduino Uno
 * HC-SR04 (Ultrasonic Distance Sensor)
