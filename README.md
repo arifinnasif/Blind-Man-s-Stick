@@ -54,4 +54,12 @@ Connect the app to the stick after powering on the device. Whenever there is an 
 
 
 
+### Contributors
+| Name          	      | Email                     |
+| ----------------------| ------------------------- |
+| Abu Nowshed Sakib 	   | ansakib04@gmail.com 	    |
+| Sultanul Arifin       | arifinnasif336@gmail.com  |
+| Kamruj jaman Sheam  	| sheamkamrujjaman@gmail.com|
+
+
 [![HitCount](http://hits.dwyl.com/arifinnasif/Blind-Man-s-Stick.svg)](http://hits.dwyl.com/arifinnasif/Blind-Man-s-Stick)
